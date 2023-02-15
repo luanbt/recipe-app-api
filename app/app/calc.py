@@ -1,4 +1,6 @@
-""" Calculator fuctions """
+""" 
+Calculator fuctions
+"""
 
 def add(x, y):
     """Add x and y and return result."""
